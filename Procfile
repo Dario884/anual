@@ -1,0 +1,1 @@
+web: gunicorn PROJETO-ANALISE-DE-VENDAS:server
